@@ -13,8 +13,8 @@ I'm Karan, a full-time Full Stack Development Enthusiast 👨‍💻 and open to
 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rishyy37&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rishyy37&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=karanziie1990&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=karanziie1990&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 
@@ -30,7 +30,7 @@ I'm Karan, a full-time Full Stack Development Enthusiast 👨‍💻 and open to
 
 ## 🏆 GitHub Trophies
 
-![trophy](https://github-profile-trophy.vercel.app/?username=Rishyy37&theme=radical)
+![trophy](https://github-profile-trophy.vercel.app/?username=karanziie1990&theme=radical)
 
 ## 💻 Tech Stack:
 
